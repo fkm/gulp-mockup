@@ -11,6 +11,7 @@
     "mockup",
     "nunjucks"
   ],
+  "main": "main.js",
   "repository": "fkm/gulp-mockup",
   "bugs": "https://github.com/fkm/gulp-mockup/issues",
   "author": "Florian Mäder <florian@maederbiel.ch>",

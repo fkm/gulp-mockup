@@ -11,5 +11,8 @@
 * [ ] More template engines? (e.g. Handlebars, Jade)
 * [ ] ...
 
+## 1.0.1
+* Bugfix: gulp-load-plugins needs a "main" field in the package.json file.
+
 ## 1.0.0
 Initial release
