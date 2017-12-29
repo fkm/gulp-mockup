@@ -1,0 +1,25 @@
+{
+  "name": "gulp-mockup",
+  "version": "1.0.0",
+  "description": "Create frontend mockups from template files a backend can use.",
+  "keywords": [
+    "eval",
+    "gulp",
+    "gulp-data",
+    "html",
+    "json",
+    "mockup",
+    "nunjucks"
+  ],
+  "repository": "fkm/gulp-mockup",
+  "bugs": "https://github.com/fkm/gulp-mockup/issues",
+  "author": "Florian Mäder <florian@maederbiel.ch>",
+  "license": "MIT",
+  "dependencies": {
+    "any-eval": "^1.0.0",
+    "gulp-util": "^3.0.8",
+    "lodash": "^4.17.4",
+    "nunjucks": "^3.0.1",
+    "through2": "^2.0.3"
+  }
+}
